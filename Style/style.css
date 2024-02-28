@@ -1,0 +1,64 @@
+.navigation 
+{
+    display: block;
+    height: auto;
+    background-color:orange;
+
+}
+.navigation img
+{
+    display: inline-block;
+}
+.navigation table
+{
+    display: inline-block;
+    margin-left: auto;
+}
+.navigation table tr td 
+{
+    display: inline-block;
+    align-items: left;
+    border: 1px solid;
+}
+.navigation img
+{
+    width: 60px;
+}
+.Welcome
+{
+    display: block;
+    height: 578px;
+}
+.Our_Headquarter
+{
+    display: block;
+    height: 200px;
+    background-color: yellow;
+
+}
+.thumbnail 
+{
+    display: inline-block;
+}
+.thumbnail img
+{
+    width: 100px;
+    border border-radius: 50%;
+}
+.thumbnail p
+{
+    text-align: center;
+}
+#Message_Us
+{
+    display: block;
+}
+.footer
+{
+    display: block;
+    background-color: black;
+}
+.footer p
+{
+    color: white;
+}
